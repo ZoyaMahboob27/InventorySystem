@@ -13,7 +13,7 @@ import java.sql.SQLException;
  **/
 public class DBConnection {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/inventory?autoReconnect=yes&useSSL=no";
+    private static final String URL = "jdbc:mysql://localhost:3306/inventory";
 
     public static Connection getConnection() {
         Connection con;
