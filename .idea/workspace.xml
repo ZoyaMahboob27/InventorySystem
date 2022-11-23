@@ -10,16 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Login added, Change in UI, Database connected.">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/db.fgwAAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/practise.K4M5rA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/quiz.VSI1AA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/teslasrentalinventory._A5XaA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/test_db.Sws3qw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/world.khvBBg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/xx.AA8AAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/inventory.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/inventory.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -597,6 +588,8 @@
       <workItem from="1594455831772" duration="2461000" />
       <workItem from="1669141317071" duration="1846000" />
       <workItem from="1669143567110" duration="191000" />
+      <workItem from="1669221875734" duration="15000" />
+      <workItem from="1669221976106" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Multiple view added.">
       <created>1531118175694</created>
